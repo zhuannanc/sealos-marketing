@@ -19,10 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
           <li>
             <p>快捷入口</p>
           </li>
-          <li><a href="https://fael3z0zfze.feishu.cn/share/base/form/shrcn5oHHTKCf3VREMKOhEy6fmf?s=bd-sealos-marketing-appstore" target="_blank">商务咨询</a></li>
-          <li><a
-                href="https://affim.baidu.com/unique_57159132/chat?siteId=21229559&userId=57159132&siteToken=6763f865f8d80f27bf8adf840a3041b6&cp=%E9%A6%96%E9%A1%B5-%E5%BA%95%E9%83%A8-%E5%94%AE%E5%89%8D%E5%92%A8%E8%AF%A2%E6%8C%89%E9%92%AE&cr=&cw="
-                target="_blank">售前咨询</a></li>
+          <li><a href="https://fael3z0zfze.feishu.cn/share/base/form/shrcnamY6ULVuhDVLtPeA2izC5f" target="_blank">私有化咨询</a></li>
           <li><a href="https://sealos.run/docs/overview/intro" target="_blank">文档中心</a></li>
         </ul>
         <ul>
