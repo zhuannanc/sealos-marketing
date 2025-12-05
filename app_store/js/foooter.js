@@ -19,10 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
           <li>
             <p>快捷入口</p>
           </li>
-          <li><a href="https://fael3z0zfze.feishu.cn/share/base/form/shrcn5oHHTKCf3VREMKOhEy6fmf?s=bd-sealos-marketing-appstore" target="_blank">商务咨询</a></li>
-          <li><a
-                href="https://affim.baidu.com/unique_57159132/chat?siteId=21229559&userId=57159132&siteToken=6763f865f8d80f27bf8adf840a3041b6&cp=%E9%A6%96%E9%A1%B5-%E5%BA%95%E9%83%A8-%E5%94%AE%E5%89%8D%E5%92%A8%E8%AF%A2%E6%8C%89%E9%92%AE&cr=&cw="
-                target="_blank">售前咨询</a></li>
+          <li><a href="https://fael3z0zfze.feishu.cn/share/base/form/shrcnamY6ULVuhDVLtPeA2izC5f" target="_blank">私有化咨询</a></li>
           <li><a href="https://sealos.run/docs/overview/intro" target="_blank">文档中心</a></li>
         </ul>
         <ul>
@@ -69,19 +66,6 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
     </div>
   </div>
-  <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-N2X5FW9W');</script>
-<!-- End Google Tag Manager -->
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N2X5FW9W"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-
-
   <script>
 var _hmt = _hmt || [];
 (function() {
